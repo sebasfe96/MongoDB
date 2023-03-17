@@ -1,0 +1,47 @@
+[{
+  "_id": 1,
+  "torneo": {
+    "_id": 1
+  },
+  "equipo1": {
+    "_id": 1
+  },
+  "equipo2": {
+    "_id": 2
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1686891600000"
+    }
+  },
+  "hora": "7 pm",
+  "arbitro": {
+    "_id": 2
+  },
+  "cancha": {
+    "_id": 1
+  }
+},{
+  "_id": 2,
+  "torneo": {
+    "_id": 2
+  },
+  "equipo1": {
+    "_id": 1
+  },
+  "equipo2": {
+    "_id": 2
+  },
+  "fecha": {
+    "$date": {
+      "$numberLong": "1686891600000"
+    }
+  },
+  "hora": "7 pm",
+  "arbitro": {
+    "_id": 2
+  },
+  "cancha": {
+    "_id": 1
+  }
+}]

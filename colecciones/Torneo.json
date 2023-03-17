@@ -1,0 +1,31 @@
+[{
+  "_id": 2,
+  "nombre": "torneo deportivo futbol de salón",
+  "fechaInicial": {
+    "$date": {
+      "$numberLong": "1686805200000"
+    }
+  },
+  "fechaFinal": {
+    "$date": {
+      "$numberLong": "1689397200000"
+    }
+  },
+  "cantJuga": 12,
+  "cantEquip": 16
+},{
+  "_id": 1,
+  "nombre": "torneo deportivo baloncesto",
+  "fechaInicial": {
+    "$date": {
+      "$numberLong": "1686805200000"
+    }
+  },
+  "fechaFinal": {
+    "$date": {
+      "$numberLong": "1689397200000"
+    }
+  },
+  "cantJuga": 10,
+  "cantEquip": 10
+}]

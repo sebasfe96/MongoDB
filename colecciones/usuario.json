@@ -1,0 +1,27 @@
+[{
+  "_id": 1113679108,
+  "nombre": "sebastian saavedra",
+  "telefono": "3215929860",
+  "correo": "ssaavedra094@gmail.com",
+  "tipoUser": {
+    "_id": 1
+  }
+},{
+  "_id": 66776630,
+  "nombre": "andres cruz",
+  "telefono": "3215929860",
+  "correo": "ssaavedra094@gmail.com",
+  "tipoUser": {
+    "_id": 1
+  }
+},{
+  "_id": {
+    "$numberLong": "11136891245"
+  },
+  "nombre": "carlos romero",
+  "telefono": "3215929860",
+  "correo": "ssaavedra094@gmail.com",
+  "tipoUser": {
+    "_id": 2
+  }
+}]

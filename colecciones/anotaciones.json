@@ -1,0 +1,28 @@
+[{
+  "_id": 1,
+  "partido": {
+    "_id": 1
+  },
+  "jugador": {
+    "_id": 1
+  },
+  "minutoPartido": "15:23"
+},{
+  "_id": 2,
+  "partido": {
+    "_id": 1
+  },
+  "jugador": {
+    "_id": 1
+  },
+  "minutoPartido": "18:23"
+},{
+  "_id": 3,
+  "partido": {
+    "_id": 1
+  },
+  "jugador": {
+    "_id": 1
+  },
+  "minutoPartido": "19:23"
+}]
